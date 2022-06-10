@@ -11,5 +11,8 @@
             "email": "nweb@mail.ru"
         }
     ],
-    "require": {}
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
 }
